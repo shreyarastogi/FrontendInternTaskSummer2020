@@ -1,5 +1,5 @@
 Name: Shreya Rastogi
-College: Bharati Vidyapeeth's College Of Engineering
+College: Bharati Vidyapeeth's College Of Engineering, Paschim Vihar, New Delhi
 Stream: ECE
 Year: 3rd
 Residence: New Delhi
